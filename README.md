@@ -419,6 +419,7 @@ Welcome to the Design Library! This repository contains a collection of design t
 4. [Usage](#usage)
 5. [Characterization](#characterization)
 6. [CMOS Fabrication Process Overview](#CMOS Fabrication Process Overview)
+7. [ Additional Resources](# Additional Resources)
 
 
 ## 1. Introduction
@@ -511,7 +512,7 @@ This is a high-level overview, and a full CMOS fabrication process involves many
 
 
 
-## 9. Additional Resources
+## 7. Additional Resources
 
 - [Semiconductor Manufacturing: How a Chip is Made](https://www.youtube.com/watch?v=NGFhc8R_uO4): A video that provides a visual overview of semiconductor manufacturing.
 - [Introduction to Microfabrication](https://www.nano-fab.com/education/introduction-to-microfabrication): An online course providing a detailed introduction to microfabrication techniques.
