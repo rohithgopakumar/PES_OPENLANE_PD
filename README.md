@@ -400,6 +400,10 @@ Thoroughly document the design and characterization process. Create design speci
 The Cell Design and Characterization Flow is a critical aspect of semiconductor design, ensuring that electronic cells meet performance and reliability criteria. By following this flow and continuously refining the cell design, you can contribute to the successful development of integrated circuits.
 
 
+</details>
+<details>
+<summary>DAY 3:  Design library cell using Magic Layout and ngspice characterization </summary>
+<br>
 
 
 
