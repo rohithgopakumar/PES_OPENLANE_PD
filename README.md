@@ -418,6 +418,7 @@ Welcome to the Design Library! This repository contains a collection of design t
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Characterization](#characterization)
+6. [CMOS Fabrication Process Overview](#CMOS Fabrication Process Overview)
 
 
 ## 1. Introduction
@@ -464,7 +465,53 @@ The Design Library provides templates and components that you can use as a start
 
 6. **Document Your Design**: Document your design in the `documentation/` directory, including schematics, layout diagrams, and simulation results.
 
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/7c5f366d-249a-4a75-bda9-87264ff1c4c0)
+
+
+
 ## 5. Characterization
 
 The `characterization/` directory contains important data and simulation files for each component and template in the library. These files include transistor models, parameter sweeps, and characterization data. Always refer to this data when using components to ensure accurate simulations and designs.
   
+## 6. CMOS Fabrication Process Overview
+
+CMOS (Complementary Metal-Oxide-Semiconductor) is a widely used technology in integrated circuit (IC) manufacturing. The fabrication process involves a series of complex steps, and here is a simplified overview:
+
+1. **Substrate Preparation**: The process begins with a silicon wafer as the substrate. The wafer is cleaned and prepared for subsequent processing.
+
+2. **Oxidation**: A layer of silicon dioxide (SiO2) is grown or deposited on the wafer to act as an insulating layer.
+
+3. **Photolithography**: Photomasks are used to define patterns on the wafer. Ultraviolet (UV) light is used to transfer these patterns onto a layer of photoresist material.
+
+4. **Etching**: The exposed areas of the wafer are selectively etched away, leaving behind the desired pattern.
+
+5. **Doping**: Impurities are introduced into the silicon to modify its electrical properties. This step creates the source and drain regions for transistors.
+
+6. **Deposition**: Thin films of various materials (e.g., metal, polysilicon) are deposited onto the wafer to form interconnects and gates.
+
+7. **Annealing**: The wafer is heated to activate dopants and repair any crystal defects.
+
+8. **Chemical Mechanical Polishing (CMP)**: This step ensures a smooth and flat surface for subsequent layers.
+
+9. **Additional Photolithography and Deposition**: Steps 3-8 are repeated for each layer of the IC.
+
+10. **Final Steps**: Additional processes, such as passivation and metallization, are performed to complete the IC.
+
+This is a high-level overview, and a full CMOS fabrication process involves many more steps and details. For in-depth information, refer to textbooks or online resources on semiconductor fabrication.
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/65d59470-0bef-4b99-b26f-a0f70022b9b4)
+
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/76640d20-0d0b-4057-9b95-bdaab1e97345)
+
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/a590a88e-df54-476b-9592-12efcbb1dbe4)
+
+
+
+## 9. Additional Resources
+
+- [Semiconductor Manufacturing: How a Chip is Made](https://www.youtube.com/watch?v=NGFhc8R_uO4): A video that provides a visual overview of semiconductor manufacturing.
+- [Introduction to Microfabrication](https://www.nano-fab.com/education/introduction-to-microfabrication): An online course providing a detailed introduction to microfabrication techniques.
