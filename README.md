@@ -312,6 +312,9 @@ Maintain comprehensive documentation throughout the floor planning process. This
 
 Detailed floor plan diagrams illustrating the placement of blocks, components, power grid, and signal routing.
 
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/c7647c53-c669-468a-bffb-2087bea2baca)
+
+
 ### 2. Design Constraints
 
 A clear list of design constraints, including power requirements, signal timing, clock specifications, and manufacturing rules.
