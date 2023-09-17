@@ -407,3 +407,64 @@ The Cell Design and Characterization Flow is a critical aspect of semiconductor 
 
 
 
+# Design Library
+
+Welcome to the Design Library! This repository contains a collection of design templates and components created using Magic Layout and characterized using ngspice. This README will provide you with an overview of the contents, instructions for usage, and information on how to contribute to this library.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Contents](#contents)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Characterization](#characterization)
+
+
+## 1. Introduction
+
+The Design Library is a resource for engineers and designers working on integrated circuit (IC) design. It contains pre-designed templates and components that can be used as a starting point for various IC projects. These designs have been created and characterized using Magic Layout and ngspice, providing a solid foundation for your custom IC designs.
+
+## 2. Contents
+
+The Design Library is organized into the following directories:
+
+- `templates/`: This directory contains pre-designed templates for common IC components such as amplifiers, oscillators, and filters.
+
+- `components/`: Here, you'll find individual IC components like transistors, capacitors, and resistors that can be used to assemble your custom designs.
+
+- `characterization/`: Contains characterization data and simulation files for the components and templates in the library.
+
+- `documentation/`: Documentation and user guides for using the library and performing simulations.
+
+## 3. Getting Started
+
+To get started with the Design Library, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine using Git:
+
+git clone https://github.com/yourusername/design-library.git
+
+2. **Install Magic Layout**: Install Magic Layout on your machine if you haven't already. You can find installation instructions in the [Magic Layout documentation](https://magic-layout-docs.example.com).
+
+3. **Install ngspice**: Install ngspice, the circuit simulator, according to the instructions provided on the [ngspice website](https://ngspice.sourceforge.io/download.html).
+
+## 4. Usage
+
+The Design Library provides templates and components that you can use as a starting point for your IC designs. Here's how to use them:
+
+1. **Open Magic Layout**: Launch Magic Layout using the terminal:
+
+2. **Load a Template or Component**: Use Magic's `load` command to load a template or component from the `templates/` or `components/` directory:
+
+3. **Customize and Edit**: Modify the loaded design to meet your project requirements.
+
+4. **Characterization**: Before finalizing your design, refer to the characterization data in the `characterization/` directory for each component to ensure accurate simulation results.
+
+5. **Simulate**: Use ngspice to simulate your design and verify its functionality. Example simulation commands and setups can be found in the documentation.
+
+6. **Document Your Design**: Document your design in the `documentation/` directory, including schematics, layout diagrams, and simulation results.
+
+## 5. Characterization
+
+The `characterization/` directory contains important data and simulation files for each component and template in the library. These files include transistor models, parameter sweeps, and characterization data. Always refer to this data when using components to ensure accurate simulations and designs.
+  
