@@ -673,3 +673,55 @@ Learn how to verify your layout design for correctness and compliance with desig
 
 By the end of this project, you will have a solid understanding of the Magic tool and its capabilities for VLSI layout design. Happy designing!
 
+
+
+</details>
+<details>
+<summary>DAY 4: Pre-layout timing analysis and importance of good clock tree </summary>
+<br>
+
+# Pre-layout Timing Analysis and Importance of Good Clock Tree
+
+## Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Familiarity with digital circuit design concepts.
+- A simulation and analysis tool (e.g., Cadence Encounter, Synopsys Design Compiler).
+- Basic knowledge of clock tree synthesis.
+
+## Overview
+
+This project focuses on pre-layout timing analysis and highlights the crucial role of a well-structured clock tree in achieving reliable and high-performance digital circuits.
+
+## Project Content
+
+This project consists of the following sections:
+
+1. [Timing Analysis Fundamentals](#timing-analysis-fundamentals): Understand the basics of timing analysis and its significance in digital circuit design.
+
+2. [Clock Tree Synthesis](#clock-tree-synthesis): Learn about the clock tree synthesis process and its impact on timing.
+
+3. [Importance of a Good Clock Tree](#importance-of-a-good-clock-tree): Explore the critical role of a well-designed clock tree in meeting timing requirements.
+
+4. [Pre-layout Timing Analysis](#pre-layout-timing-analysis): Perform pre-layout timing analysis to predict and address timing violations before fabrication.
+
+## Timing Analysis Fundamentals
+
+In the [Timing Analysis Fundamentals Guide](timing-analysis-fundamentals.md), you will gain insights into the essential concepts of timing analysis, including setup time, hold time, and clock-to-q delays.
+
+## Clock Tree Synthesis
+
+The [Clock Tree Synthesis Guide](clock-tree-synthesis.md) provides an overview of the clock tree synthesis process and its relevance in achieving reliable clock distribution.
+
+## Importance of a Good Clock Tree
+
+Learn about the significance of a well-structured clock tree in the [Importance of a Good Clock Tree Guide](importance-of-a-good-clock-tree.md). Discover how it impacts power consumption, signal integrity, and overall design performance.
+
+## Pre-layout Timing Analysis
+
+In the [Pre-layout Timing Analysis Guide](pre-layout-timing-analysis.md), you will perform pre-layout timing analysis using industry-standard tools to identify and rectify timing violations early in the design phase.
+
+## Conclusion
+
+By the end of this project, you will appreciate the importance of pre-layout timing analysis and the role of a well-designed clock tree in ensuring the success of your digital circuit designs. Happy designing!
