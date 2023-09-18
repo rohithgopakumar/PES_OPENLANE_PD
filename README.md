@@ -516,3 +516,99 @@ This is a high-level overview, and a full CMOS fabrication process involves many
 
 - [Semiconductor Manufacturing: How a Chip is Made](https://www.youtube.com/watch?v=NGFhc8R_uO4): A video that provides a visual overview of semiconductor manufacturing.
 - [Introduction to Microfabrication](https://www.nano-fab.com/education/introduction-to-microfabrication): An online course providing a detailed introduction to microfabrication techniques.
+
+
+
+
+# Sky130 Spice Deck Lab
+
+Welcome to the Sky130 Spice Deck Lab! This lab will guide you through the process of creating a Spice deck for simulation using the Sky130 Process Design Kit (PDK) and ngspice. By the end of this lab, you will be able to set up and simulate simple CMOS circuits using Sky130 technology.
+
+
+
+## 1. Introduction
+
+In this lab, you will learn how to create a Spice deck, which is a simulation input file, for the Sky130 PDK. You will set up a simple CMOS circuit, define components and connections, and perform transient simulations using ngspice.
+
+## 2. Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Sky130 Process Design Kit (PDK) installed and configured on your system.
+- ngspice simulator installed.
+
+## 3. Lab Setup
+
+Start by setting up your working environment:
+
+1. Open a terminal.
+
+2. Navigate to the directory where you have the Sky130 PDK installed:
+
+   ```bash
+   cd /path/to/your/sky130_pdk
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/2cba65c8-54f3-495e-ac22-a46fd0d067c7)
+
+# Sky130 Inverter Characterization
+
+Welcome to the Sky130 Inverter Characterization project! In this project, you will learn how to characterize an inverter using the Sky130 Process Design Kit (PDK) and ngspice simulator. This README.md file provides step-by-step instructions on how to perform inverter characterization.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Characterization Steps](#characterization-steps)
+4. [Simulation Setup](#simulation-setup)
+5. [Running the Simulation](#running-the-simulation)
+6. [Analyzing Results](#analyzing-results)
+7. [Conclusion](#conclusion)
+8. [Contributing](#contributing)
+9. [License](#license)
+
+## 1. Introduction
+
+In this project, you will characterize a simple CMOS inverter using the Sky130 PDK and ngspice. Characterization involves determining the electrical behavior of the inverter under various conditions, such as input voltage and load capacitance.
+
+## 2. Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Sky130 Process Design Kit (PDK) installed and configured on your system.
+- ngspice simulator installed.
+- Basic knowledge of CMOS logic gates.
+
+## 3. Characterization Steps
+
+The characterization process involves the following steps:
+
+1. **Define the Inverter**: Create a Spice deck that defines the inverter circuit, specifying transistor models, supply voltage, and input signal.
+
+2. **Set Simulation Parameters**: Configure simulation parameters, such as transient analysis settings, input voltage levels, and load capacitance.
+
+3. **Run Simulations**: Execute the ngspice simulation to characterize the inverter's performance under different conditions.
+
+4. **Analyze Results**: Analyze the simulation results to extract key metrics, such as propagation delay and power consumption.
+
+## 4. Simulation Setup
+
+For detailed instructions on creating the Spice deck and setting up simulations, please refer to the [Simulation Setup Guide](simulation-setup.md).
+
+## 5. Running the Simulation
+
+To run the inverter characterization simulation, follow the steps outlined in the [Running the Simulation Guide](running-the-simulation.md).
+
+## 6. Analyzing Results
+
+After running the simulations, use the [Analysis Guide](analyzing-results.md) to extract and interpret important metrics.
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/e46d845d-7559-4392-9011-aea268f72d88)
+
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/d6393378-1bb4-44bf-9a7c-60ece6db670d)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/22c7b3a9-b91e-45d3-a161-cee9b9ba8975)
+
