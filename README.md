@@ -722,6 +722,18 @@ Learn about the significance of a well-structured clock tree in the [Importance 
 
 In the [Pre-layout Timing Analysis Guide](pre-layout-timing-analysis.md), you will perform pre-layout timing analysis using industry-standard tools to identify and rectify timing violations early in the design phase.
 
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/70c3e498-fef3-4eac-9698-4834219fe5dd)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/9238f215-68dc-4817-b31b-b4ae9a39134e)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/c303d846-ede2-42a2-be69-3f52969cad84)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/5a31b082-835c-4f9c-b611-4266f12fd3f9)
+
 ## Conclusion
 
 By the end of this project, you will appreciate the importance of pre-layout timing analysis and the role of a well-designed clock tree in ensuring the success of your digital circuit designs. Happy designing!
