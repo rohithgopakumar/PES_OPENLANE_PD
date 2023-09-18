@@ -612,3 +612,57 @@ After running the simulations, use the [Analysis Guide](analyzing-results.md) to
 
 ![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/22c7b3a9-b91e-45d3-a161-cee9b9ba8975)
 
+
+
+# Introduction to Magic Tool
+
+## Prerequisites
+
+Before you begin, ensure you have the following:
+
+- Magic Layout tool installed and configured on your system.
+- Basic knowledge of VLSI layout design concepts.
+
+## Magic Tool Overview
+
+Magic is an open-source VLSI layout tool widely used for designing integrated circuits. It offers a powerful environment for creating, editing, and verifying layout designs. In this project, you will get an introduction to the Magic tool and its key features.
+
+
+## Magic Installation
+
+To install Magic on your system, follow the installation instructions for your specific platform provided in the [Magic Documentation](https://magic-layout-docs.example.com/installation).
+
+## Basic Layout Design
+
+In the [Basic Layout Design Guide](basic-layout-design.md), you will learn how to create a simple layout design, including drawing rectangles, placing components, and connecting them.
+
+## Custom Layout Components
+
+The [Custom Layout Components Guide](custom-layout-components.md) will demonstrate how to design custom components such as transistors, capacitors, and resistors using Magic.
+
+## Design Verification
+
+Learn how to verify your layout design for correctness and compliance with design rules in the [Design Verification Guide](design-verification.md).
+
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/8e78c984-b656-41e8-9e8c-5d7a6d9fe038)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/81d028d3-782f-4004-b950-88afda80b39e)
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/5facfdce-b120-452e-bc3a-c1171c73a733)
+
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/3c06432f-52dc-4b03-80f2-b5a7e1596abe)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/c120535b-850b-4984-be99-59cfb8e842a5)
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/f50ce5e2-f106-4433-9f5e-a036298494cd)
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/c3ae0969-df4b-434c-804e-1749894737f0)
+
+
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/5fa1efa5-3b2e-418d-a6d8-75cb0d5bba6e)
