@@ -665,4 +665,11 @@ Learn how to verify your layout design for correctness and compliance with desig
 ![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/c3ae0969-df4b-434c-804e-1749894737f0)
 
 
-![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/5fa1efa5-3b2e-418d-a6d8-75cb0d5bba6e)
+![image](https://github.com/rohithgopakumar/PES_OPENLANE_PD/assets/131611312/867eee24-0b9f-40fb-82cb-7411c431cf3e)
+
+
+
+## Conclusion
+
+By the end of this project, you will have a solid understanding of the Magic tool and its capabilities for VLSI layout design. Happy designing!
+
