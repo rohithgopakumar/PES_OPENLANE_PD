@@ -737,3 +737,46 @@ In the [Pre-layout Timing Analysis Guide](pre-layout-timing-analysis.md), you wi
 ## Conclusion
 
 By the end of this project, you will appreciate the importance of pre-layout timing analysis and the role of a well-designed clock tree in ensuring the success of your digital circuit designs. Happy designing!
+
+
+
+
+</details>
+<details>
+<summary>DAY 5: Final steps for RTL2GDS using tritonRoute and openSTA </summary>
+<br>
+
+
+
+
+# Day 5: Final Steps for RTL2GDS using TritonRoute and OpenSTA
+
+Welcome to Day 5 of your RTL2GDS journey! In the previous days, you've learned about various steps involved in the RTL-to-GDS flow. Today, we'll focus on the final steps using TritonRoute for placement and routing and OpenSTA for static timing analysis. These tools will help you complete the physical design of your integrated circuit.
+
+## Table of Contents
+- [1. Introduction](#1-introduction)
+- [2. TritonRoute - Placement and Routing](#2-tritonroute-placement-and-routing)
+  - [2.1 Installation](#21-installation)
+  - [2.2 Usage](#22-usage)
+- [3. OpenSTA - Static Timing Analysis](#3-opensta-static-timing-analysis)
+  - [3.1 Installation](#31-installation)
+  - [3.2 Usage](#32-usage)
+- [4. Conclusion](#4-conclusion)
+
+## 1. Introduction
+
+TritonRoute and OpenSTA are essential tools in the RTL-to-GDS flow. TritonRoute is used for placement and routing, while OpenSTA is used for static timing analysis. These tools ensure that your design meets timing requirements and can be manufactured successfully.
+
+## 2. TritonRoute - Placement and Routing
+
+### 2.1 Installation
+
+TritonRoute is typically part of a larger EDA (Electronic Design Automation) suite, such as Cadence Innovus or Synopsys ICC. Installation procedures can vary depending on your EDA tool, so consult the documentation provided with your specific tool. Ensure that you have set up the necessary licensing as well.
+
+### 2.2 Usage
+
+Once TritonRoute is installed, you can use it to perform placement and routing:
+
+```bash
+tritonRoute <options> -f <input.def> -o <output.def>
+``
