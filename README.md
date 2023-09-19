@@ -779,4 +779,33 @@ Once TritonRoute is installed, you can use it to perform placement and routing:
 
 ```bash
 tritonRoute <options> -f <input.def> -o <output.def>
-``
+```
+
+## 2.3 Configuration
+
+To achieve optimal results, it's essential to configure TritonRoute properly. Consider the following aspects:
+
+- **Clock Tree Synthesis (CTS):** Ensure that you have a well-defined clock tree to distribute the clock signals efficiently across your design.
+
+- **I/O Placement:** Place I/O pads strategically to minimize signal delays and improve overall performance.
+
+- **Power Planning:** Plan power distribution to meet your power delivery network requirements.
+
+- **Routing Layers:** Configure routing layers and vias to accommodate the routing demands of your design.
+
+Refer to the TritonRoute documentation and your EDA tool's guidelines for detailed configuration options.
+
+
+
+### 3.3 SDC Constraints
+
+Ensure that your SDC (Synopsys Design Constraints) file is correctly configured with the following constraints:
+
+- **Clock Definitions:** Define clocks and clock domains within your design.
+
+- **Setup and Hold Times:** Specify setup and hold times for flip-flops and other elements.
+
+- **Multicycle and False Paths:** Identify multicycle and false paths to guide the tool's analysis.
+
+- **Max and Min Delays:** Set maximum and minimum delay constraints for critical paths.
+
